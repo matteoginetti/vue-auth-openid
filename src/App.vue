@@ -4,11 +4,11 @@
 	const { colorHex } = useColor('brand')
 
 	useHead({
-		title: 'Volver Vue Starter',
+		title: 'OpenId login',
 		meta: [
 			{
 				name: 'description',
-				content: 'A Volverjs Template (Vite + Vue) inspired by Vitesse',
+				content: 'A vue openid login tester',
 			},
 			{
 				name: 'theme-color',
